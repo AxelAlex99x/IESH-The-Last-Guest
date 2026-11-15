@@ -3,7 +3,7 @@
 IESH Assignment 2: an interactive 360° panorama story built with A-Frame.
 
 ## Play
-Live demo: 
+Live demo: https://axelalex99x.github.io/IESH-The-Last-Guest/
 
 ## Story
 You wake in a guest room at Mistvale Lodge. The host has left before dawn,
